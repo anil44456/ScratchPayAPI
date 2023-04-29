@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchPayModels", "Scratch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchPayRepository", "ScratchPayRepository\ScratchPayRepository.csproj", "{98051064-C63B-4214-B2FC-AC48D780B383}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchPayAPI.Test", "ScratchPayAPI.Test\ScratchPayAPI.Test.csproj", "{7F0E128E-525C-47D5-BDD9-A71348E86E7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{98051064-C63B-4214-B2FC-AC48D780B383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98051064-C63B-4214-B2FC-AC48D780B383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98051064-C63B-4214-B2FC-AC48D780B383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0E128E-525C-47D5-BDD9-A71348E86E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0E128E-525C-47D5-BDD9-A71348E86E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0E128E-525C-47D5-BDD9-A71348E86E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0E128E-525C-47D5-BDD9-A71348E86E7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
